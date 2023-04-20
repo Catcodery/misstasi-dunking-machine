@@ -1,0 +1,9 @@
+pytesseract
+Pillow
+openai
+Faker
+nltk
+selenium
+bs4
+opencv-python
+poe-api
