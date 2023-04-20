@@ -14,21 +14,22 @@ Dunking on the nazis
 - Once the installation is complete, you can open a command prompt or terminal window, and type python to verify that Python has been installed correctly.
 
 # Installing pytessaract
-   ## Install Tesseract OCR:
-        - For Windows: Download the installer from Tesseract's GitHub releases page and install it. The recommended installer for Windows is from the University of Mannheim.
-        - For macOS: Use Homebrew to install Tesseract by running brew install tesseract.
-        - For Linux: Use the package manager for your distribution to install Tesseract. For example, on Ubuntu, run sudo apt install tesseract-ocr.
+## Install Tesseract OCR:
+- For Windows: Download the installer from Tesseract's GitHub releases page and install it. The recommended installer for Windows is from the University of Mannheim.
+- For macOS: Use Homebrew to install Tesseract by running brew install tesseract.
+- For Linux: Use the package manager for your distribution to install Tesseract. For example, on Ubuntu, run sudo apt install tesseract-ocr.
 
-    ## Add Tesseract to your system's PATH:
-        ### For Windows:
-            - Locate the folder where Tesseract was installed (usually C:\Program Files\Tesseract-OCR).
-            - Press the Windows key, type "Environment Variables" and open "Edit the system environment variables".
-            - Click on the "Environment Variables" button.
-            - In the "System variables" section, find and select the "Path" variable, then click "Edit".
-            - Click "New" and add the path to the Tesseract installation folder (e.g., C:\Program Files\Tesseract-OCR).
-            - Click "OK" to save your changes.
-        ### For macOS and Linux: 
-        The Tesseract executable is usually installed in a folder already included in the system's PATH (e.g., /usr/local/bin), so you may not need to make any changes.
+## Add Tesseract to your system's PATH:
+### For Windows:
+- Locate the folder where Tesseract was installed (usually C:\Program Files\Tesseract-OCR).
+- Press the Windows key, type "Environment Variables" and open "Edit the system environment variables".
+- Click on the "Environment Variables" button.
+- In the "System variables" section, find and select the "Path" variable, then click "Edit".
+- Click "New" and add the path to the Tesseract installation folder (e.g., C:\Program Files\Tesseract-OCR).
+- Click "OK" to save your changes.
+- 
+### For macOS and Linux: 
+The Tesseract executable is usually installed in a folder already included in the system's PATH (e.g., /usr/local/bin), so you may not need to make any changes.
 
     Restart your IDE or terminal to ensure that the updated PATH is used.
 
