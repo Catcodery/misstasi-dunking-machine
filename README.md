@@ -17,6 +17,10 @@ It uses AI! How hip and cool.
 - Run the installer file once it is downloaded, and follow the installation wizard prompts to complete the installation process.
 - Once the installation is complete, you can open a command prompt or terminal window, and type python to verify that Python has been installed correctly.
 
+## Installing libraries
+- Navigate to the folder where you copied the files from here
+- run `pip install -r requirements.txt`
+
 # Installing pytessaract
 ## Install Tesseract OCR:
 - For Windows: Download the installer from Tesseract's GitHub releases page and install it. The recommended installer for Windows is from the University of Mannheim.
