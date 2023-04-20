@@ -31,7 +31,7 @@ Dunking on the nazis
 ### For macOS and Linux: 
 The Tesseract executable is usually installed in a folder already included in the system's PATH (e.g., /usr/local/bin), so you may not need to make any changes.
 
-    Restart your IDE or terminal to ensure that the updated PATH is used.
+Restart your IDE or terminal to ensure that the updated PATH is used.
 
 # API keys:
 ## Openai:
@@ -40,10 +40,12 @@ The Tesseract executable is usually installed in a folder already included in th
 - Click API keys on the left
 - Generate new
 - Create a new file called "openai_token.txt" and paste the key in there. Save the fie in the same folder as this repo on your computer.
+- You **Will** need money on your account, though it's not too expensive.
 
 ## Poe
 - See here: https://github.com/ading2210/poe-api#finding-your-token
 - Paste the token in a new file called "poe_token.txt". Save the fie in the same folder as this repo on your computer.
+- Poe is free
 
 # Running it
 - Open a terminal where the files are
