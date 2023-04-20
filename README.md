@@ -62,7 +62,7 @@ Restart your IDE or terminal to ensure that the updated PATH is used.
 - Run it other ways too if you like
 
 # Problems
-- Captacha is a little wonky sometimes
+- Captacha is a little wonky sometimes, it works maybe 30% of the time
 - I didn't really review my code
 
 # Disclaimer
