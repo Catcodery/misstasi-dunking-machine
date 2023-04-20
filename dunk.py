@@ -282,7 +282,7 @@ def fill_in_form(fname, lname, address, city, state, zipcode, email, phone, lett
     driver.find_element(By.NAME, 'captcha-a').send_keys(captcha)
     
     # Submit the form
-    #driver.find_element(By.XPATH, '//button[@type="submit"]').click()
+    driver.find_element(By.XPATH, '//button[@type="submit"]').click()
 
     # Close the browser
     time.sleep(10)
